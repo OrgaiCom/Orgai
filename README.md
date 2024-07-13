@@ -25,4 +25,8 @@ kaggleのサイトから TitanicやHousePricesの train.csv,test.csvをダウン
 
 ## 
 
+X(旧Twitter): @OrgaiCom
+
+## 
+
 以上
